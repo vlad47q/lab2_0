@@ -21,7 +21,4 @@ int main()
 
 	cin.get();
 	return 0;
-
-	cout << "something";
-
 }
